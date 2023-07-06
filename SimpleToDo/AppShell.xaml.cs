@@ -1,0 +1,9 @@
+﻿namespace SimpleToDo;
+
+public partial class AppShell : Shell
+{
+	public AppShell()
+	{
+		InitializeComponent();
+	}
+}
