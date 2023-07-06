@@ -60,3 +60,6 @@ This project was developed to explore the capabilities of .NET MAUI and showcase
 This project was created by Hashim Atiq. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hashim-atiq/) to stay updated on my latest projects and to engage in discussions.
 
 Stay organized and keep track of your tasks with the Todo List app!
+
+## Disclaimer
+Please note that this application does not currently implement persistent data storage. Any data you enter or modify within the app will only persist for the duration of the application's runtime. Once the application is closed or restarted, the data will be reset.
