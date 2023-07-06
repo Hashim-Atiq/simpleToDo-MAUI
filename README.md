@@ -6,13 +6,13 @@ This repository contains a Todo List app built using .NET MAUI. The app allows y
 Here are a few screenshots showcasing the user interface and functionality of the Todo List app:
 
 <img style="padding-bottom:2%;" src="Images/Windows-1.png" alt="Screenshot of Main Screen" height="250" align="center" />
-<img src="Images/Windows-2.png" alt="Screenshot of Main Screen" height="251" align="center" /><br /><br />
-
+<img src="Images/Windows-2.png" alt="Screenshot of Main Screen" height="251" align="center" />
 Description: The main screen and add task screen for the windows platform.<br /><br />
 
-<img style="padding-right:10%;" src="Images/Android-1.png" alt="Screenshot of Main Screen" height="250" align="center" />
-<img src="Images/Android-2.png" alt="Screenshot of Main Screen" height="251" align="center" /><br /><br />
-
+<div style="display: inline;">
+<img src="Images/Android-1.png" alt="Screenshot of Main Screen" height="250" />&emsp;&emsp;
+<img src="Images/Android-2.png" alt="Screenshot of Main Screen" height="251" />
+</div>
 Description: The main screen and add task screen for the android platform.
 
 ## Prerequisites
